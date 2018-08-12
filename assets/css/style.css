@@ -1,0 +1,52 @@
+body{
+    background-image: url("../../assets/images/Cosmic.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.jumbo{
+    margin: 0 auto;
+    margin-top: 2%;
+    height:50%;
+    margin-bottom:4%;
+}
+.firstRow{
+    width:80%;
+    margin: 0 auto;
+}
+
+.header{
+    /* background-image: url("../../assets/images/Cosmic.gif"); */
+    /* background-repeat: no-repeat; */
+    /* background-size: 100%; */
+    background-color:transparent;
+    margin-top:2%;
+    
+    
+}
+h1{
+    text-align:center;
+    color:white;
+    font-size:400%;
+}
+.displayHead{
+    color:black;
+}
+.image{
+    height:30%;
+    width:30%;
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#wins-text{
+    font-weight:bold;
+}
+#losses-text{
+    font-weight:bold;
+}
+#guesses-text{
+    font-weight:bold;
+}
+#far-text{
+    font-weight:bold;
+}
